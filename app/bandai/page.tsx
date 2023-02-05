@@ -7,9 +7,8 @@ const BandaiHomePage = () => {
     const postPreviews = postMetadata.map((post) => (
         <div>
           <Link href={`/bandai/${post.slug}`}>
-            <img src={post.cover_img} alt="" style={{width: 500}}></img>
             <h2>{post.title}</h2>
-            <p>{post.date}</p>
+            <img src={post.cover_img} alt="" style={{width: 500}}></img>
           </Link>
         </div>
     ));

@@ -1,4 +1,6 @@
 import Link from "next/link";
+import "../styles/globals.css";
+import NavBar from "@/components/NavBar";
 
 export default function RootLayout({ 
   children, 
@@ -8,11 +10,7 @@ export default function RootLayout({
   
   const header = 
   <header>
-    <div>
-      <Link href="/"><h1>Kohler's Hobby Page</h1></Link>
-      <p>Welcome to my hobby page.</p>
-      <br />
-    </div>
+    <NavBar />
   </header>
   
   const footer =
@@ -27,9 +25,11 @@ export default function RootLayout({
     <html>
       <head />
       <body>
-        {header}
-        {children}
-        {footer}
+        <div className="mx-auto">
+          {header}
+          {children}
+          {footer}
+        </div>
         </body>
     </html>
   )

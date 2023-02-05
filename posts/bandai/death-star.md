@@ -1,5 +1,9 @@
 ---
 title: "Death Star"
 date: "2021-03-01"
-cover_img: "/images/covers/Front1.jpg"
+cover_img: "https://lh3.googleusercontent.com/oeBLizcx_fSf2D2nPsOYNhF-8iJCyqtShg61T2usjoEYId4FKIPIRcbvw-56nivei7Dis83tm551uGFoV-0EI9KkJJ2h48OT-3wtnbW2tV5iO0hmps2HeCCD1fCrOt12GYVZqHBiNg=w2400"
+img1: "https://lh3.googleusercontent.com/sM9QRe-UnoDDX8JfPNXTDQnypn5jLNXCHIDm7A89ATwpbo2QDBTYierfOzyGmkr87F4GJOSf04kf1AzqPJFdgeXI3aGmkn5WJ2SKEbQzL-yY79kiC8V1OufikUM-KWjxT6zn6wM9XA=w2400"
+img2: "https://lh3.googleusercontent.com/9-lUrcLov7kRypZhrkUJdMldg88wCSlruRhIVI9zZFUyohHW7rj0aQQifEchJ3J7HPhOB8uJXfRRgCrkPDfW6zdlfqjySAgC7TZFQcBdF1EcY-beCJd8-Jjq--ZVEokIJOAA3gB-Zg=w2400"
+img3: "https://lh3.googleusercontent.com/2nN5vtajLJAkBh3aTNDngQinjb4SG6iBrIWI1ngF1qhZv-StpvUJujcLYBxoGFgtCRuv_OzYdRNh0qE1w2rcMymKOzrbvGEYzOFXsERwqeifSudKI1Z1fgN-9BT_QgtdKj2z0DwNJQ=w2400"
+img4: "https://lh3.googleusercontent.com/vuvXZNGV7-TYjSuPoMnFlj6L69DZuqOOIEb4G16i6HwplRHDKCUwcYm9NFOuQmD3mhKGlRFQUOf1ei5j06suDIzNc0jPuzFELNyqWnrZyo8JlrLV3Xk719hgw1v4ggMj2H3rNu_CFg=w2400"
 ---
