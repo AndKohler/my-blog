@@ -1,5 +1,10 @@
 ---
 title: "TX-130 Saber-Class Fighter Tank"
 date: "2022-01-21"
-cover_img: "/images/covers/front1.jpg"
+cover_img: "https://lh3.googleusercontent.com/YWAhrKlEk7_he94hTSfuYsEv-wKySRVVYd68gpxU58gUL_zyCGgX_kQcNO-Ogd_h6PVJLx3O0ef8tpo_WfXC6lmizfKrJnhXv1H81J_2zQZfshh8hkjqn3xHOalR9IPIgI2tx_HX-w=w2400"
+img1: "https://lh3.googleusercontent.com/8Lq0pRdCpAVk8dbskqJuwei0j5JrCdi_8TAWhVR0botKSfDz2KfFpD58tBm2qGtT2HX_xvkSUyBDNSpZU_2KvxltVUSxzWRtZPe8uc6DltWX5A-sfgAiatEGqsRs9KtRPg2M8jnyow=w2400"
+img2: "https://lh3.googleusercontent.com/4Rg84e2FoQEK4aWSSGwNryizVo2qNX8juxyIrkK88FTkgBDu_Rk9sXW8p9eCuiSIkCWTDtyLqcSsbjX-C4a4TlbVYtX5hKMDj1wljhvZpE-nC4WNF7sNIe92Igte-GOWDGqzTK52sg=w2400"
+img3: "https://lh3.googleusercontent.com/APQz3cQSCucV97z2qKDLo0T8bS6v5WZKVDBphV_crQUpWPQXPFUxYpDdbBldLfKmVyVe4u8UhH-I7vz96vlPZYzNFyHKm4uM4CjdktsMo8qPXP1sGBJI4Knmtiq5VvGzbBgyl9UFDA=w2400"
+img4: "https://lh3.googleusercontent.com/GAUJ2QqH3WUBMUZxaGNvx_A7GOKJ3GCNZRD451NvT0YP2a-sJMD_8Tq0j4hHOhzVVUNn3TXmBMJhnkvizLaDSugQCJHYCb07xEfyj6Fj8QJKT8ng97p_zfKxCWKjQ1Q38FVIXQHOGg=w2400"
+img5: "https://lh3.googleusercontent.com/v1T13gDpcTUcW6KB7PXhWgV93XGidHZNQMGIJCsxwm5knbORld0vWcf8jEExf4gUGfnZNKe6jWZqC8J1MbCABEB9uOYk0ex1WiHLW1wnroz-TEqPWjAsDzVZu2OjNho_ChkuNKPfUg=w2400"
 ---

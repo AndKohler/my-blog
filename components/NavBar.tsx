@@ -1,6 +1,7 @@
 'use client';
 import { useState } from "react";
 import Link from 'next/link';
+import MyLogo from '../public/MyLogo.jpg'
 
 const NavBar = () => {
     const [navbar, setNavbar] = useState(false)

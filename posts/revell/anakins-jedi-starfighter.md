@@ -1,5 +1,10 @@
 ---
 title: "Anakin's Jedi Starfighter"
 date: "2021-02-14"
-cover_img: "/images/covers/front1.jpg"
+cover_img: "https://lh3.googleusercontent.com/QUe08ovo8rfp-47b1zn0U9tUW0Pv9WcRuNN9pYrewfT1mRrVktLZPEnG9bBQJW7uV62i4hNawoGsLjytxkxwL_Ys4Pi71a0k_TnJOgHi_yoDbgUpa9WmxcSzufWISZfN16DKJyyD-Q=w2400"
+img1: "https://lh3.googleusercontent.com/HtXvOyblMlrpR1GAJ9SfQfsNYceqnjERd-mc6BBP3wcFoTTJg4aQ91k7g2bgLvvwaujNy2NNP2RQTvG4QYnmgrhnIRy3om4kw-Yb44HkrHn0egHAxbX0ryDnT6aoEeqYy8j_hq28rg=w2400"
+img2: "https://lh3.googleusercontent.com/HSuu4xv4gaaGAzLJix08lZzj5HtbOb_YDloqvALcZ0jTE3hoh6vawaN12R4FSqgMLly-cupuvGZAORtT3ty9XD-3gLgTxC_FMEhF1VuvVhW38UHU4X30lm0Tt2lw93xRyMMXNOBw2A=w2400"
+img3: "https://lh3.googleusercontent.com/KMb_QhI64rCqcGeRftq2YP_X9cFOp3rX8DtX7uSZKyooIl-5hw8bid1NT1rRaAS7r4J10rxNSezlrCC6-XDRkf4gPNPvhhQI5itOo0ej6O3KTPdzBWkySK5onfJoTJKlXr7Xz5easw=w2400"
+img4: "https://lh3.googleusercontent.com/etx0NG0CMwIK-7oB7Zcvm2A3rFiZsUDpANyb6oRl9JeWpxb41RBI9EQGN7ydOdlsfnKw1IQCen3PSTPdNJ6rMo7nMvh6g388-WitzeVRB11wiTjOHLWPkWj8j3wCkkPla0q6zRl0Xg=w2400"
+img5: "https://lh3.googleusercontent.com/k3qYrW0ZINtI6zyM5_L9VU5WWCFonbtB61qdafzdhph7etWIQ9u7wO4jWFWuZQ6bh1w6fwiK3KEnPmRNd6XEdXmQb4WcdWMzAXHzniynpiaBSHDsa-sl5EjEQ_6UnNbTsMifOQcmGA=w2400"
 ---

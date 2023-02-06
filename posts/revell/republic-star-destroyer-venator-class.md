@@ -1,5 +1,10 @@
 ---
 title: "Republic Star Destroyer Venator Class"
 date: "2021-03-10"
-cover_img: "/images/covers/front1.jpg"
+cover_img: "https://lh3.googleusercontent.com/esY6ERjFwm7JlvERnuqGoZl6ZRf2c9kWZXCLLOwpWbsvZ4qCSYRhjCLNp6dag18Mg8oRWvRdHUrYYWj4rkvBlfSRO8dyKu8jN_mpOcUC37IbaJ5YTChE5vMmI6AMmpLdEc_gH4gh_w=w2400"
+img1: "https://lh3.googleusercontent.com/tH1523o7iL1ogtSBF0UIeiwUOgAz7yTMQXM9kheK_iikOhByRMPat-NEVKlQmIWyoDABSJZaLCZXbXf1hvpmMLB61parSW90VtIGfzNUhUEHX9wShpjBx6wgye-zmN_bcd8KicwkXA=w2400"
+img2: "https://lh3.googleusercontent.com/JKR9r2ON8A0KZBBgWItMxnYw7QjC4AYWupF9VuGs6wb9L1cPVDo7D_9OYyg_LRPxGD4wZKPnFbQ_acb8zcSevvE1fJfNMLW2pnMgDqkfZjhBslHjPEdZfVkgVz08ekIul8W_AF-dVA=w2400"
+img3: "https://lh3.googleusercontent.com/_U-866rRuQ7QpR8Uv-UHfnx2Emd16tA9qg2yPhbSx8BZyt4HWISyx5QeNM8bFl2QPio80rXea9TxyEyiVsh8Yh0mwrDMfh9AEyDS2Jef34uC-tOdlZjpJyo0mQ7tAxPbv7kI_Q7Dmw=w2400"
+img4: "https://lh3.googleusercontent.com/heFS4hKKnw3p8SQ2hffJGYhl_JAK_J3jJbnrnLIIl2Cpf9j46pSFAp1wKFt6yJJBshGzL1jyIGHKHNue_UasqlkN2NYJZM9cqyk5nrsFfGvZWjyMDM92w2_-iprusLpxX7NY0IplQA=w2400"
+img5: "https://lh3.googleusercontent.com/5AlMS0Y8DN_iz6VBuBLfXvKoAUJ_76rppDqOktrb6Eow1n2EDcr760clyWE9DMwaFIu1NsF8eUbVJ4Egts7D6Z8UixBRCBgAjNqbiPZ0WlemzefASDjF-9RQznJJPGBPT1hN7vCQzQ=w2400"
 ---

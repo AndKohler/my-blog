@@ -1,5 +1,10 @@
 ---
 title: "Poe's X-Wing"
 date: "2021-03-26"
-cover_img: "https://lh3.googleusercontent.com/A69euEonidNrK69xbC80m7ZFmp5Rd70DEm-ZtFIs4fdOPZltF52CEMZ7-rsWXz9i81w8dIxvsA2NdhcXrUYtex6-L0D-j0KvahoqFBbQQdYUDPMAxdIx-a6i3f6OXwRpmMW91uxypQ=w2400"
+cover_img: "https://lh3.googleusercontent.com/-2drKOLFg0LuK7Y2NFovYipARf3E0IoAbURd1KUaTfMQMy5oJIl5SZTVr-obEDIDA19Djwl4hdh79qvXBp9Tmey4AmUXwIx8-waI_Uy8BrDnFdf3kw6pHps-5xq8QGDdFLGUkMNwlQ=w2400"
+img1: "https://lh3.googleusercontent.com/aXfsWq5SNzSo-wwmj2OMGBYuziIfejgoTHylKtP9nmwbM61ZhHiv_I_4728ee23_MsuXUVGlM7IEtEBYTHa1goF-LMH5HXCbQvqUccHEYZL7CHdrzMT-y8rpsEAktjhVJbZMmVXFqg=w2400"
+img2: "https://lh3.googleusercontent.com/K8iAi5B7FpyZHussB0xcKYGcecZkfPlkgr970oYLbdB77RRJMTRDAal5j4GIIXsJdT7TzICLLszCw4ksc5FrSyLAdYrFTZo_RaP1ddjafyn5mffWu7ImTcftkUOORw0jUVMqpbdBag=w2400"
+img3: "https://lh3.googleusercontent.com/qKXoJcOOBXQyhXIDX6O1Gckp4C3XqXDvG3cxXfuyx9oQLDKHeRs_valU7XEoRdEaBLGDnqNjZI6JbvS57NQV_6rFIQis1AhqLx1XhCWyz94ykOBl06EuSFPqnMrK7jKpD4Y2j61jFQ=w2400"
+img4: "https://lh3.googleusercontent.com/3K2R2s4bt_eQ2HGkHXHQAzNTc2bc_MBvDYmyhTGHEKjaviLanoh6wXxehymHrGzuJjx4sdtHocFu7nlx0LjBdUPMIfC_kHmeTA6RTSUTTvQgmKKmHuHcOl_mc0NDxuTGwAFFQdv5OQ=w2400"
+img5: "https://lh3.googleusercontent.com/nulHR3fBn1AaD10_ses11KBhyx1yjyiNuuvJHdR3yO7g6LNzE8WlglwkQbx0kIpITB2MbmBwxo6jouINt22Mt9WyJ_xAE3lcz6mj2IHlX496qackepskVZwPRw71QRDa8PUAEWAUhw=w2400"
 ---
