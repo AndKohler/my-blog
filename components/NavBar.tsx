@@ -10,7 +10,7 @@ const NavBar = () => {
         <header className="bg-white border-gray-200 dark:bg-gray-900">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-full px-4 py-4">
             <Link href="/" className="flex items-center">
-              <img src="MyLogo.jpg" className="h-9 mr-5 rounded-xl" alt="AK Logo" />
+              <img src="/MyLogo.jpg" className="h-9 mr-5 rounded-xl" alt="AK Logo" />
               <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">AndKohler Hobby</span>
             </Link>
           </div>

@@ -1,5 +1,6 @@
 import "../styles/globals.css";
 import NavBar from "@/components/NavBar";
+import Footer from "@/components/Footer";
 
 export default function RootLayout({ 
   children, 
@@ -14,17 +15,14 @@ export default function RootLayout({
   
   const footer =
   <footer>
-    <div>
-      <br />
-      <p>copyright by AndKohler</p>
-    </div>
+    <Footer />
   </footer>
 
   return (
     <html>
       <head />
       <body>
-        <div className="mx-auto">
+        <div className="mx-auto bg-gray-300">
           {header}
           {children}
           {footer}

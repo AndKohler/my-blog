@@ -8,3 +8,9 @@ img3: "https://lh3.googleusercontent.com/rek4N6lhi6dpC9wgGDuzTe8cvljPNNZm-fgffBU
 img4: "https://lh3.googleusercontent.com/BiCMZnlYux1Mi5decNPpBAlcrbvg09vbqL2rLu3HaX4O324721i0U0tiDHwAx9tdmCAQn2Zqwawvf4Ll3MaoSn_6OZutJJ3shj_BDfCM-Yd4aanwGysles5hehZm_j1T7RMSVMMLKA=w2400"
 img5: "https://lh3.googleusercontent.com/lfrC2mMTWdjGwpGca0dYY0KJV0-pVtqoBVq8QwQtndTutA7TjSuBdOQQzyYXG9D1AG9ba8WMImHoZA0Zb5RZklSaqxGRJMwo1k4PzbHdrHmTz7RWHgjlc7m6pkCU_s7Iy9KnZTYXUg=w2400"
 ---
+
+This is the X-Wing from Bandai Hobby. I've painted this to have a worn and dirty look.
+
+There are some different options when building this model. You can choose to have the landing gear up, cockpit closed and wings in expand mode. As I already have another X-Wing I decided to make this one in ground mode.
+
+It's in 1/72 scale and is about 22cm in lenght.
