@@ -2,12 +2,12 @@ import Carousel from "@/components/carousel"
 import fs from "fs";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
-import getPostMetadata from "@/components/getPostMetadata3";
+import getPostMetadata from "@/components/getPostMetadata5";
 import Image from "next/image";
 import Link from "next/link";
 
 const getPostContent = (slug: string) => {
-    const folder = "posts/star-wars-legion/";
+    const folder = "posts/warhammer-40k/";
     const file = `${folder}${slug}.md`;
     const content = fs.readFileSync(file, "utf8");
     const matterResult = matter(content);
@@ -27,7 +27,7 @@ const PostPage = (props: any) => {
     return (
         <div>
           <h1 className="text-center mt-6 font-bold text-4xl">{post.data.title}</h1>
-          <p className="text-center mt-0 mb-6">1/72 scale</p>
+          <p className="text-center text-2xl">{post.data.subtitle}</p>
             <div className="grid grid-cols-1 max-w-full m-2 border-2 border-gray-600">
                 <Carousel
                 infiniteLoop={true}
@@ -49,8 +49,8 @@ const PostPage = (props: any) => {
                 <Markdown>{post.content}</Markdown>
             </article>
             <p className="text-center mt-16">Visit Bandai here</p>
-            <Link className="grid justify-center" href="https://bandai-hobby.net/sw/en/index.html" rel="noopener noreferrer" target="_blank">
-                <Image src="/SW-Legion-logo.png" height={100} width={100} alt=""></Image>
+            <Link className="grid justify-center" href="" rel="noopener noreferrer" target="_blank">
+                <Image src="/bandai-logo.png" height={100} width={100} alt=""></Image>
             </Link>
         </div>
     );

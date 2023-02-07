@@ -9,7 +9,7 @@ const NavBar = () => {
       <div>
         <header className="bg-white border-gray-200 dark:bg-gray-900">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-full px-4 py-4">
-            <Link href="/" className="flex items-center">
+            <Link href="/" className="flex items-center" onClick={() => setNavbar(!navbar)}>
               <img src="/MyLogo.jpg" className="h-9 mr-5 rounded-xl" alt="AK Logo" />
               <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">AndKohler Hobby</span>
             </Link>
@@ -33,7 +33,13 @@ const NavBar = () => {
             navbar ? 'px-2 pt-2 pb-4 md:p-0 block' : 'hidden'
           }`}
           >
-            <ul className="md:flex md:flex-row md:mt-0 md:mr-6 md:space-x-8 md:font-medium ">
+            <ul className="md:flex md:flex-row md:mt-0 md:mr-6 md:space-x-4 md:font-medium ">
+              <li>
+                <Link href="/warhammer-40k" onClick={() => setNavbar(!navbar)} className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-500">Warhammer 40K</Link>
+              </li>
+              <li>
+                <Link href="/warhammer-aos" onClick={() => setNavbar(!navbar)} className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-500">Warhammer AoS</Link>
+              </li>
               <li>
                 <Link href="/bandai" onClick={() => setNavbar(!navbar)} className="mt-1 block px-2 py-1 text-white font-semibold rounded hover:bg-gray-500 md:">Bandai</Link>
               </li>
