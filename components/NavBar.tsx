@@ -9,7 +9,7 @@ const NavBar = () => {
       <div>
         <header className="bg-white border-gray-200 dark:bg-gray-900">
           <div className="flex flex-wrap justify-between items-center mx-auto max-w-full px-4 py-4">
-            <Link href="/" className="flex items-center" onClick={() => setNavbar(!navbar)}>
+            <Link href="/" className="flex items-center">
               <img src="/MyLogo.jpg" className="h-9 mr-5 rounded-xl" alt="AK Logo" />
               <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">AndKohler Hobby</span>
             </Link>
@@ -22,9 +22,9 @@ const NavBar = () => {
             >
               <svg className="h-10 w-10 fill-current" viewBox="0 0 24 24">
                 {navbar ? (
-                <path fill-rule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
+                <path fillRule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
                 ) : (
-                <path fill-rule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z" />
+                <path fillRule="evenodd" d="M4 5h16a1 1 0 0 1 0 2H4a1 1 0 1 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2zm0 6h16a1 1 0 0 1 0 2H4a1 1 0 0 1 0-2z" />
                 )}  
               </svg>
             </button>

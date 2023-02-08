@@ -1,10 +1,11 @@
 ---
 title: "Y-Wing"
+subtitle: "1/144 Scale"
 date: "2021-04-02"
-cover_img: "https://lh3.googleusercontent.com/_1NiAx2oiQ_L4ys4KoIBCkA0fO1ZqCvRPrS26JcIuKxuSUYeeO7AoEV-9_cc-wLNuUP3c89UAP7UXtwjm46OctRX_4wdLAjJeyhe6gJDbZtxdDKubjAIcD4gvDib0BVWVn24lL6mow=w2400"
-img1: "https://lh3.googleusercontent.com/wIfzwWU_Ylv4dlMf-iCNv9KgcHlSizKx1MDBSHIWSVU6DfL-DHOIpv_1mb243tnR8cP7aKJgDESkyohm9P3NNZm5fZoDcEu1S0opOrExP4AJbzl2_cItGV6t6yYHkpO9_I1BpmuF2A=w2400"
-img2: "https://lh3.googleusercontent.com/5jvxWc1f-2G0Gh8m7XsaTRLMMRAC_1o8ohXmPf1pENsr4y-aQU4Enw9rrcpDzIQShIgmgDecP3LJ43f8JHs1-KU3pICmt3Cg6GW0C3xPRFyx_a18lM17UyRkf_p_Xt_3SYjexQcJNQ=w2400"
-img3: "https://lh3.googleusercontent.com/Lt27WpQUXEhjFg-WltpJ7j42yp2qjF6o2EibH9Bt7b7rc3bUE1zxvHBv6xFj07fNeavGYu7F45q-AJHfPeWAn5m8dwTE0-UUzK7Oxa8CgNM9b-WFSg7zpiVz5a9VqeX6e3qCq9aHqA=w2400"
-img4: "https://lh3.googleusercontent.com/InTIBa6s07R2na3DqDtpO6tE4UVutEEEzwrwKVVUWc29xADuFvAgZPyfDjgUgJ3BX8kUdmCGCaSz55b4aV5TUi-iGBktZxTsa9MAeLQpW9mKvlHFpv0LgXJPhDYyin3-SFU8zs7LYw=w2400"
-img5: "https://lh3.googleusercontent.com/y-DajMAXt3ersRIVeE0S8KS_b2bbG-jSMmPJlIURQPsADKJ7OEO8eHe4C3P2x2Va-H_GltvuHa6FiCrP2F_xzB9C7yhWuGa5GxbMSp-EiAG2UYjqIBJkC76JsQN8OJ9P7KiaTIOClw=w2400"
+cover_img: "/images/bandai/y-wing/Cover.webp"
+img1: "/images/bandai/y-wing/1.webp"
+img2: "/images/bandai/y-wing/2.webp"
+img3: "/images/bandai/y-wing/3.webp"
+img4: "/images/bandai/y-wing/4.webp"
+img5: "/images/bandai/y-wing/5.webp"
 ---

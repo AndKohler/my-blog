@@ -1,10 +1,11 @@
 ---
 title: "Imperial Stardestroyer"
+subtitle: "1/14500 Scale"
 date: "2021-02-24"
-cover_img: "https://lh3.googleusercontent.com/bnfJTPhqAobwI33oUvAjzc4vtJTwODhCwsNO7hOTNOZXhvNcspwu2pGvrfDGUWjV1qZihFeSX5ElAgId-8IHahqiQSGzyqgTT-CXsKdjXo9fPOj8cB7E1FndedZaYjd3-nqhTO21uw=w2400"
-img1: "https://lh3.googleusercontent.com/esw70ZyyH6mEdjMjJmDJEkr6mIqDUTM7p-3NzwYLrNOgEHNTZ1mK3cAnLvfBZJmSJIQEQZxP2CxuBj5bKhBPvXIcSpa8yiLKmBRsoZPoOqr5HFhyipFJD4vwSB59mHH7I7g0Qf9ONA=w2400"
-img2: "https://lh3.googleusercontent.com/yNMS-b-olXpdlg2WJl742oGo-0RAMmb7i_oBU_nqQSsoGp795cuoIaQV3YNd9MRgPG1OGRUtKofFnVXUsoQ5Bdae6xmgdjLyR9urZxuQWvtWZodZ8i_G0pDUODE6EQwgQjGb6VtRrA=w2400"
-img3: "https://lh3.googleusercontent.com/Ho1rWdlq7uMHwPSr_a-aST20EWdw7c39-m62AUoHLz6mwH04V0oaFOLrMro9IokCIvLg3eFZ6i1komweJ9Z-qtiZNXDiujerkZzdFvb1Zoh3DFDAfblGkzMnidbvlZezldqcygHrLg=w2400"
-img4: "https://lh3.googleusercontent.com/ccj_SebhtfrtkhNiMP_9HDBxNK98lJEBaur910x1SYquPYx0-tpNEg_WJYdfr9CFMFTsvoP5LJcifwoxoueKhIaNXajj-z1_ARV28hA_VmNHXIQ8_dZ65OmnjMCbKxfbyEeYAcd5lA=w2400"
-img5: "https://lh3.googleusercontent.com/brdg6dWyl7PDIiV34ioXpmLYqphFa6SNT2MPIP6r0awNavxHAB0jc3bSSNh1axGRBT-GX-Y1MjE5gMzlOYiN7p3-n3WyqMUWnyL4ziKdYH7Don3Oks_GZCjcbRijLkRAa5tMAZp0iw=w2400"
+cover_img: "/images/bandai/imperial-stardestroyer/Cover.webp"
+img1: "/images/bandai/imperial-stardestroyer/1.webp"
+img2: "/images/bandai/imperial-stardestroyer/2.webp"
+img3: "/images/bandai/imperial-stardestroyer/3.webp"
+img4: "/images/bandai/imperial-stardestroyer/4.webp"
+img5: "/images/bandai/imperial-stardestroyer/5.webp"
 ---

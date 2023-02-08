@@ -1,10 +1,11 @@
 ---
 title: "Obi-Wan's Jedi Starfighter"
+subtitle: "1/58 Scale"
 date: "2021-02-21"
-cover_img: "https://lh3.googleusercontent.com/OQm1PRmvdcTRDfREAdurL48TsscAanB9bIl0iCCsL4i2vwrsNZsaUl03u-POp4Mdgt1oY5vshrA8ZDLWkNypAgKCNqfUHiATxkgQxr5gbYToVIEf1q0j0oP54qKYa2gqzPrDexTWjA=w2400"
-img1: "https://lh3.googleusercontent.com/QUWmXjtGjipfpIGB7t6UoE7lyuex_wlYhqDQYN6_FMWA-U9fFccaPlNx47xkr2C0dxooRhsXTfB6emnnWCZoUjcbFEqtKCPhmlJe-Jx2o7Bi6MnW1ai3O7MSvecxzaJ9CvBYJUzFpQ=w2400"
-img2: "https://lh3.googleusercontent.com/gYECoxekbC3gajrY34tqbVLnt5USADfZEnoAG8AngoU6lt6X0aNQuSfBLicb2CJrycnZ4GSF96FCtiKWi5GOkJN0Ix4d9jAb0Oq46NlnTgVPpksXDXyMGldykQJ8NSYuTwzH_I58HQ=w2400"
-img3: "https://lh3.googleusercontent.com/9Jp0pceGMFEoCnDYeY8k383NVeWdB4GLdN-XW2cdKOz0NrDwdw1eLHiavgSxub5znzfWqrqjA2QEqgzeASC9o0Y_b0ZZYIaH8BSaawIQvDgRS4lJXWN-mtdFHM11i7fBDPPFQYAUaQ=w2400"
-img4: "https://lh3.googleusercontent.com/UheJHj4F1_HaWfdOt8hKsBkyrZzNXsYNd5NZ3OYEGLGtkZ2U5m8zUw7lLODfONSHpQZQnsXEYHYLU1CFzS8W7GDneqkF-qIkNj-OOiH6ds38_htnwsyblYibMs1ExsR0hQ5CmnfsTw=w2400"
-img5: "https://lh3.googleusercontent.com/B1uei2ddiryU9ih5nvUfZ3KC5-NaDjLz1T4urwJipplqBe72D9lkXr8-kaH5XfcncegwIxujwHRSwyYaPw0-8Qj8mOzhnIp3GULLQmRYHiTYB2bQf6yL1n7G-y73ycad9vBr9e_nZg=w2400"
+cover_img: "/images/revell/obi-wans-jedi-starfighter/Cover.webp"
+img1: "/images/revell/obi-wans-jedi-starfighter/1.webp"
+img2: "/images/revell/obi-wans-jedi-starfighter/2.webp"
+img3: "/images/revell/obi-wans-jedi-starfighter/3.webp"
+img4: "/images/revell/obi-wans-jedi-starfighter/4.webp"
+img5: "/images/revell/obi-wans-jedi-starfighter/5.webp"
 ---

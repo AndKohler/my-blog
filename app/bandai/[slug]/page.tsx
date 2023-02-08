@@ -27,7 +27,7 @@ const PostPage = (props: any) => {
     return (
         <div>
           <h1 className="text-center mt-6 font-bold text-4xl">{post.data.title}</h1>
-          <p className="text-center mt-0 mb-6">1/72 scale</p>
+          <p className="text-center text-xl">{post.data.subtitle}</p>
             <div className="grid grid-cols-1 max-w-full m-2 border-2 border-gray-600">
                 <Carousel
                 infiniteLoop={true}

@@ -1,10 +1,10 @@
 ---
 title: "Phase 1 Clone Troopers"
 date: "2021-04-16"
-cover_img: "https://lh3.googleusercontent.com/WZa5ZYoidZ63NqTIz3v1Z9wGwRZz862DwibynqMtyh57R3EGbmZkxACh8Qi6vacFEIQnuNCWXup93xQO7Lx8i5jmZhgffyr2qbaztAdHaUpbuRI1R_ik_uMe6wWThcARL_rdgk9Okw=w2400"
-img1: "https://lh3.googleusercontent.com/wD7Dx3w_ufLAPf-EnuA3BlFtwcFhk8urRX8_Ql25q2jedB7wkolsCAiTZbUNNQX85JNUA6JvvS1FjhT_9UoFRJARVHZi5kfZLUkIOmLOFo3A9d-jftSB_tBIqu7PqPis1q6vEp2aSg=w2400"
-img2: "https://lh3.googleusercontent.com/qMCwcoMa_lISnEHLXHVy_bjDlzksYxm6vT0_88KfK6kMYaMQrmToAfcTbtdHvZwWiX-6KVsDq0B9H6IgYNIlzcfrPC43EOhXI4WXjLVBib7qKeXRfFGveMv7cATxcCUZo1ZpwML3qg=w2400"
-img3: "https://lh3.googleusercontent.com/ZQxAwP2BohtOSJqF8AJlToB7T1XU1qAmFj1czQWku6EJfDZAf7Lx-Q9IO5gSCYNjTdlpkF1cnJvtPWDUbV_pb8Evh-c7Gxmwa2I01Hwp4DEPtnpJ9uJi927DNXfEbVASLbgKchd0Pg=w2400"
-img4: "https://lh3.googleusercontent.com/m06qSujdBiloENBDAKQzZNm2ZOl3w7soxhJKXByWQsy2rocr7iqziRjhjxoOIlcuNolTse9rwPifYKMhCeeeXwckNdsCCOh3AtP_ksWzW0c3le7NVbQ7BL3YEw6rqK9a3656Dy00_w=w2400"
-img5: "https://lh3.googleusercontent.com/LuJB_CPeT_QCMkCxHtUh5yfjxUquGlSc-Xkwr9Gw8NPrQZloO4p40iiPNBtbx_wXRjszoQrfPOYY53xUV8Hi3Nq_K7N2bcPxLTeIjIUGVD6qXcDTEcfSB56mHkNi_nLZVRpwaduMRg=w2400"
+cover_img: "/images/star-wars-legion/p1-clones/Cover.webp"
+img1: "/images/star-wars-legion/p1-clones/1.webp"
+img2: "/images/star-wars-legion/p1-clones/2.webp"
+img3: "/images/star-wars-legion/p1-clones/3.webp"
+img4: "/images/star-wars-legion/p1-clones/4.webp"
+img5: "/images/star-wars-legion/p1-clones/5.webp"
 ---

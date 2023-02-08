@@ -1,10 +1,11 @@
 ---
 title: "Tie Fighter"
+subtitle: "1/72 Scale"
 date: "2021-02-04"
-cover_img: "https://lh3.googleusercontent.com/JXwAah7XGo7lMwVYVpAABmRrw5_U_3OEAwf7lHtzKeKMQjl3mtyHO6mbo2ngSjY4heMUeSBuleBLyrjrc63ruZ_AO7KxNnuFCtKYDGQS_lkDRnhY326xN5vSR2FQMM-QlTF7tHwgcA=w2400"
-img1: "https://lh3.googleusercontent.com/6VIsYyZfKaO8yiXhsNTEWjuxcyUaklaZnC89OsuZwz8ylxaqKOvr3SJgGx6lTHsj10r_NnHmbeO_9HaJcvJ_eVrfvGgbdXvzTaSAR11WCxdG0Ac0KKNnZWFzK2xmSf8Lv0HdddRhPQ=w2400"
-img2: "https://lh3.googleusercontent.com/sj299JXVV_jwD7l1UlPw6udzw_PAMPpD7RQP0hLA-TeQ0bSZTLiGMpvhGyt6ERgyuC7ghEw-gTQ1xjiW3h6hiGPv0a201FILLnT-yDF1UiJwZQqPDh7-xMCd7oVrh73AeoINE8Vu3w=w2400"
-img3: "https://lh3.googleusercontent.com/SWy3o94G87tlpzMTp8S40ksRwTabOqDFW-8NS_y3imVHxWvLZmZbjQByRS21JrrY7TulEz4tpeJclJy9IMAbZoIi6szSWSwKURTzdVOXMeIcvC08Z2eEyih3MPFdsk7kaVeqP6uplA=w2400"
-img4: "https://lh3.googleusercontent.com/JQUIwu5Hbcz7MOxjqaL4PZTjk3uViq49ucfcSWncgdeheoGgcD4_-bGvXaDnZpRB-SWnnJYo6X7xqeHI2c2TxN8IXpQN24tNo98lNDdhDfih1GteumyqNN5CcQPGq_MfQs9Ypf2iCA=w2400"
-img5: "https://lh3.googleusercontent.com/PkqfGoVnegjwpP3xPezfnpL5L8wSGw8D2XP5L_5wo55h_nVSEVrvcNxys3wZjxh5wuYJUkG4HtRXvlAcB7EST3hu5KQIH0aXQTUFvmu1CXgwTQhDrHAiyK5URKr_CqNSerCtMbNkuw=w2400"
+cover_img: "/images/bandai/tie-fighter/Cover.webp"
+img1: "/images/bandai/tie-fighter/1.webp"
+img2: "/images/bandai/tie-fighter/2.webp"
+img3: "/images/bandai/tie-fighter/3.webp"
+img4: "/images/bandai/tie-fighter/4.webp"
+img5: "/images/bandai/tie-fighter/5.webp"
 ---

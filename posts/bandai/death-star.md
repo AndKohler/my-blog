@@ -1,10 +1,11 @@
 ---
 title: "Death Star"
+subtitle: "1/2700000 Scale"
 date: "2021-03-01"
-cover_img: "https://lh3.googleusercontent.com/4f-4Si3AtLto9iKbd6Q84l7bCmatqzHYB3wSfcd3Y24WoQAjzMUefqwm7G9rZsjdlhl2s93_yBOwJcRfaueq_2O3iMwUezDKH0FjGPtkf7cgwxtxBEjHH6HM8ztSkP6_rV17AldW0g=w2400"
-img1: "https://lh3.googleusercontent.com/Tz8YqVh2u-rZOr8QZamkgs6lS3aCO2OqEodYjgvWcuF-G7oEgR8VnQUVwNrBh_1GB4nE20FuIMlrdF3s7FTbFQHwCSLR7HMXDuw3J_dnSdv1ufp-1Jl30Ota-zHOOeX5FvPaEOS_mQ=w2400"
-img2: "https://lh3.googleusercontent.com/AM6akrKJTJFQVuMXIyeryadE7us0RDExARiHJ4QIROJm38JslQBphNISvr13YgTUtqRtFMd77U2JnGoLCvKpD3CTgIY0jM_s-vs0s9smLO7Z-KnbkcuN0t9SvQAmmbDC9OcBiJMaTw=w2400"
-img3: "https://lh3.googleusercontent.com/TlkqgZgVRc9SzODr22B-ooiTuvuKMoI9f48FSN7N6xTPKw9Zud9EtNqQOI9y-yuPEtqJ_8kV9VCAsjMaGtBcR4pobXvTlO7gAjWWvseH5mvbTN_v2KCC1BtsV7i9rtgQxc5eKYdIoQ=w2400"
-img4: "https://lh3.googleusercontent.com/qu9jA-ecU5Pn3XiLw3CvoH4U-jYTzgNP2rLTwr3eqJaCn9LrWQliLcRSbU0tYsjOfXZavBd0KsB9vE8vBreZDfbBH6WM8u_ym-HaG5T0J6q11p7aNY3i883r_FPJ4eRooNK_e_trzg=w2400"
-img5: "https://lh3.googleusercontent.com/uLDjW_7EzyvIamB5nIOK4C34BnecgkF_kasXFoNnp7nCkTm-5S82iGD-gcC9FaTzfuAnXa2ZkKMedJE-wUQmFfhsfTfbPbit2DioZwEzzH8nfUu1OZX4tcoUzIuuwgMzrWceHk-x5A=w2400"
+cover_img: "/images/bandai/death-star/Cover.webp"
+img1: "/images/bandai/death-star/1.webp"
+img2: "/images/bandai/death-star/2.webp"
+img3: "/images/bandai/death-star/3.webp"
+img4: "/images/bandai/death-star/4.webp"
+img5: "/images/bandai/death-star/5.webp"
 ---

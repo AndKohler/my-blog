@@ -48,9 +48,9 @@ const PostPage = (props: any) => {
             <article className="prose max-w-none mx-6 mt-12 text-center">
                 <Markdown>{post.content}</Markdown>
             </article>
-            <p className="text-center mt-16">Visit Bandai here</p>
-            <Link className="grid justify-center" href="https://bandai-hobby.net/sw/en/index.html" rel="noopener noreferrer" target="_blank">
-                <Image src="/SW-Legion-logo.png" height={100} width={100} alt=""></Image>
+            <p className="text-center mt-16 mb-2">Visit Star Wars Legion here</p>
+            <Link className="grid justify-center" href="https://www.fantasyflightgames.com/en/products/star-wars-legion/" rel="noopener noreferrer" target="_blank">
+                <Image src="/SW-Legion-logo.png" height={100} width={200} alt=""></Image>
             </Link>
         </div>
     );

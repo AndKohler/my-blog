@@ -1,10 +1,11 @@
 ---
 title: "Snowspeeder"
+subtitle: "1/52 Scale"
 date: "2021-01-28"
-cover_img: "https://lh3.googleusercontent.com/R902KyY2GFQYScjzUop0nGnl9FUziqVgK33TB1_CQ2UEfd4Rij2v2XXVKiXq0lFgQ6o_4ITnKa1e3gPJoC8MBipbpu5diROfwH5OcNhzH7QOAKTgcaFm2vbj_Alw_5R8XAcyqidWJw=w2400"
-img1: "https://lh3.googleusercontent.com/83P8Pu6pTJxaZAQ9FahMOKPG4WsAQBg6WN_7uhahWGo_Cckket5apoHg1OuWCvmXwp5movzDex5PPPK2boVVishLlbzE0PUitlJ5ffCseCmyYZrDXblAwuPmChFC_7EmVYAbeaVv5A=w2400"
-img2: "https://lh3.googleusercontent.com/V_Syg0iKsZjHed2TuUk0Id-W0UJG70EZZOyUe69gqwIHBz-2IPi8B3XHSQeYokjxVp1e2905fx250T3TqFF8K01kJ2KmKNnU-lK-nnNuN984gXIV1vvF_OYurzsDp0DxJmvC6qNrkA=w2400"
-img3: "https://lh3.googleusercontent.com/edG-E9zpQF6bB3BHyhAp2F_BHsPUurhZVf7DhQrbPqhRybOBLlDIqgi7Kv4Vi6aYpaGlv60t00P3XnbM3O_M0uDiPZJ7ZP89sp7k8PqkjAhdRWHVy2qE_SyXPjht2PyFLESocDNSUw=w2400"
-img4: "https://lh3.googleusercontent.com/eRK9YAqVmY6AUWSQV_wMso_TuhVn5uYM_P7VK5cB5X8EhXRRf_oxxoPRZ6wtu6PTu4pUgFWinDosWU7D9i1T-RArSmDEsy6p5evTwLrqRrAsoWPPn4iiX8oylThpiY_PsvJ2935Jfw=w2400"
-img5: "https://lh3.googleusercontent.com/SGSQ6EtVEaI5VGKhA5RPs5AWX2XldvFYxL7FCXgMOO2wqOQVFzykqO_te-dUxgZTV1I2ECI57bWZJV4F0capMp3YOTLv78jGL8FpKGcGGuWO17-XtXQjeT1gZsjqoUkin4UXkrotFQ=w2400"
+cover_img: "/images/revell/snowspeeder/Cover.webp"
+img1: "/images/revell/snowspeeder/1.webp"
+img2: "/images/revell/snowspeeder/2.webp"
+img3: "/images/revell/snowspeeder/3.webp"
+img4: "/images/revell/snowspeeder/4.webp"
+img5: "/images/revell/snowspeeder/5.webp"
 ---
