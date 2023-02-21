@@ -9,7 +9,7 @@ const BandaiHomePage = () => {
         <div key={post.id} className="border border-gray-600 mt-2 m-8 max-w-xl rounded-xl shadow-2xl bg-white">
           <Link scroll={true} href={`/bandai/${post.slug}`}>
             <h2 className="font-bold text-2xl text-center pt-4 underline">{post.title}</h2>
-            <Image className="mb-3" src={post.cover_img} width={600} height={200} alt="" ></Image>
+            <Image priority={true} className="mb-3" src={post.cover_img} width={600} height={200} alt="" ></Image>
             <p className="text-center">Created: {post.date}</p>
           </Link>
         </div>
