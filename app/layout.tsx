@@ -19,10 +19,10 @@ export default function RootLayout({
   </footer>
 
   return (
-    <html>
+    <html >
       <head />
       <body>
-        <div className="mx-auto bg-gray-300">
+        <div className="bg-gray-300 flex flex-col min-h-screen justify-between">
           {header}
           {children}
           {footer}

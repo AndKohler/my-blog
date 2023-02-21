@@ -45,12 +45,12 @@ const PostPage = (props: any) => {
                 <img src={post.data.img5} alt="" style={{width: 2500}}></img>
                 </Carousel>
             </div>
-            <article className="prose max-w-none mx-6 mt-12 text-center">
+            <article className="prose mx-auto mt-12 text-center">
                 <Markdown>{post.content}</Markdown>
             </article>
             <p className="text-center mt-16 mb-2">Visit Star Wars Legion here</p>
-            <Link className="grid justify-center" href="https://www.fantasyflightgames.com/en/products/star-wars-legion/" rel="noopener noreferrer" target="_blank">
-                <Image src="/SW-Legion-logo.png" height={100} width={200} alt=""></Image>
+            <Link scroll={true} className="grid justify-center" href="https://www.fantasyflightgames.com/en/products/star-wars-legion/" rel="noopener noreferrer" target="_blank">
+            <Image src="/SW-Legion-logo.png" height={65} width={210} alt=""></Image>
             </Link>
         </div>
     );

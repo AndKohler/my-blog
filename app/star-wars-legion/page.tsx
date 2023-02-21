@@ -6,8 +6,8 @@ import Image from "next/image";
 const StarWarsLegionHomePage = () => {
     const postMetadata = getPostMetadata();
     const postPreviews = postMetadata.map((post) => (
-        <div className="border border-gray-600 mt-2 m-8 max-w-xl rounded-xl shadow-2xl bg-white">
-          <Link href={`/star-wars-legion/${post.slug}`}>
+        <div key={post.id} className="border border-gray-600 mt-2 m-8 max-w-xl rounded-xl shadow-2xl bg-white">
+          <Link scroll={true} href={`/star-wars-legion/${post.slug}`}>
             <h2 className="font-bold text-2xl text-center pt-4 underline">{post.title}</h2>
             <Image className="mb-3" src={post.cover_img} width={600} height={200} alt="" ></Image>
             <p className="text-center">Created: {post.date}</p>

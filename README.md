@@ -14,8 +14,17 @@ git clone <url>
 
 Navigate inside the new map called "my-blog"
 
+Second, Open the ternimal and install node-modules
 
-Second, run the development server:
+```bash
+npm i
+# or
+yarn i
+# or
+pnpm i
+```
+
+Third, run the development server:
 
 
 ```bash

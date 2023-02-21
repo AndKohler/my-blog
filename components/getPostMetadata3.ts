@@ -15,6 +15,7 @@ const getPostMetadata = (): PostMetadata[] => {
         title: matterResult.data.title,
         subtitle: matterResult.data.subtitle,
         date: matterResult.data.date,
+        id: matterResult.data.id,
         cover_img: matterResult.data.cover_img,
         img1: matterResult.data.img1,
         img2: matterResult.data.img2,

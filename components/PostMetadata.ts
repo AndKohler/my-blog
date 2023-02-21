@@ -3,6 +3,7 @@ export interface PostMetadata {
     subtitle: string;
     date: string;
     slug: string;
+    id: string;
     cover_img: string;
     img1: string;
     img2: string;
