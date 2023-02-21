@@ -5,7 +5,9 @@ const Projects = () => {
     return (
         <div className="my-10 mx-2 md:mx-20 block text-center font-serif">
             <h1 className="text-2xl underline">Upcoming Projects to paint.</h1>
-            <p className="mt-4">Here are all unopened boxes I have that I will paint at some point.</p>
+            <p className="mt-4">
+                Here are all unopened boxes I have that I will paint at some point.<br/>
+                The only one that's finished from all these boxes is the Daemon Prince from the Slaves To Darkness box.</p>
             <div>
                 <ul>
                     <li className="bg-white border-2 border-gray-700 rounded-xl mt-14 mb-5 pb-10 px-5">
