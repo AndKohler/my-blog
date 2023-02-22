@@ -1,6 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project using [TailwindCSS](https://tailwindcss.com/) for styling.
 
-## Getting Started
+
+
+## Visit my fully deployed website here: [Andkohler-Hobby.com](https://andkohler-hobby.com/)
+
+
+
+
+## To start it localy on localhost:3000
 
 First, Clone the project with HTTPS from Github.
 
