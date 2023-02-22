@@ -3,7 +3,7 @@ import matter from "gray-matter";
 import { PostMetadata } from "./PostMetadata";
 
 
-const getPostMetadata = (): PostMetadata[] => {
+const getPostMetadata4 = (): PostMetadata[] => {
     const folder = "posts/tamiya";
     const files = fs.readdirSync(folder);
     const markdownPosts = files.filter((file) => file.endsWith(".md"));
@@ -35,4 +35,4 @@ const getPostMetadata = (): PostMetadata[] => {
     });
 };
 
-export default getPostMetadata;
+export default getPostMetadata4;

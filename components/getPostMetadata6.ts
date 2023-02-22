@@ -2,7 +2,7 @@ import fs from "fs";
 import matter from "gray-matter";
 import { PostMetadata } from "./PostMetadata";
 
-const getPostMetadata = (): PostMetadata[] => {
+const getPostMetadata6 = (): PostMetadata[] => {
     const folder = "posts/warhammer-aos";
     const files = fs.readdirSync(folder);
     const markdownPosts = files.filter((file) => file.endsWith(".md"));
@@ -34,4 +34,4 @@ const getPostMetadata = (): PostMetadata[] => {
     });
 };
 
-export default getPostMetadata;
+export default getPostMetadata6;
