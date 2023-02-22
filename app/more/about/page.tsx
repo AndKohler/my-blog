@@ -4,7 +4,9 @@ const about = () => {
             <h1 className="text-2xl underline text-center">About me!</h1>
             <p className="my-10 text-xl">
                 My name is Andrée. I'm 32 years old and I live in Sweden. Currently I'm studying to become a Front-End developer
-                and this website is part of a school project im working on. <br />
+                and this website is part of a school project im working on. <br/>
+                This site is made in Next.JS, Typescript and Tailwind CSS.</p>
+            <p className="my-10 text-xl">
                 On my spare time I like to watch live streams on twitch.tv or live sports like football, hockey and motorsport. <br />
                 My favorite sports event to watch is UEFA Champions League.
                 I also like watching NHL when I'm able to due to time difference as the games often starts at 1am my time. <br />
