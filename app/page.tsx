@@ -7,8 +7,7 @@ const HomePage = () => {
                 <p className="text-xl my-10">I have sorted everything in categories that you can access through the navigation bar on top.</p>
                 <p className="text-xl my-10">You can also find out more about me under the dropdown menu where I go into some details on who I am and how I got started with miniature and modelkit painting.</p>
                 <p className="text-xl mt-10">I also have some more things like my pre-painted collection, workstation, tools and upcoming projects that I have unopened and will paint at some point the the future.</p>
-                <p className="mt-20 mb-0">⚠️</p>
-                <p className="text-md mt-1 font-bold underline">!This site is still in beta phase and there might be some minor bugs. This will be fixed in the near future!</p>
+                <p className="text-md mt-1 font-bold underline">!This site is still in early phase and more things will get added at some point in the near future!</p>
             </div>
         </main>
     );
