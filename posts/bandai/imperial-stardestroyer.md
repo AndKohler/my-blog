@@ -19,4 +19,4 @@ This model is 1/14500 scale and is about 11cm in lenght and 6cm wide. It's the s
 
 This version was often looked as a command ship for the Galactic Empire.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

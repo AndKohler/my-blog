@@ -17,4 +17,4 @@ It took me a while to paint them because of all the details and the fact that th
 
 Base size: 32mm
 
-Pictures taken with Samsung Galaxy S23 Ultra one by one for best focus. Then put into photoshop to make background white. Models **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S23 Ultra one by one for best focus. Then put into photoshop to make background white. Models **NOT EDITED** in photoshop, only background.

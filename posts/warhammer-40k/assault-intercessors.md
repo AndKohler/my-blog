@@ -17,4 +17,4 @@ It was part of the Warhammer 40,000 Recruit Edition box set. First Warhammer set
 
 Base size: 32mm
 
-Pictures taken with Samsung Galaxy S20 one by one for best focus. Then put into photoshop to make background white. Models **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20 one by one for best focus. Then put into photoshop to make background white. Models **NOT EDITED** in photoshop, only background.

@@ -20,4 +20,4 @@ His sworn enemy is the Jedi Order. He was trained in lightsaber combat by Count 
 
 Base Size: 37mm
 
-Pictures taken with Samsung Galaxy S23 Ultra. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S23 Ultra. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

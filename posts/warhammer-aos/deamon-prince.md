@@ -23,4 +23,4 @@ One of the first models I've started to use Citadel's Contrast Paints.
 
 Base Size: 60mm
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

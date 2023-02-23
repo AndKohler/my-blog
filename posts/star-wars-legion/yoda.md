@@ -18,4 +18,4 @@ Yoda was the leader of the Jedi Order until it's destruction. Yoda was almost 90
 
 Base Size: 37mm
 
-Pictures taken with Samsung Galaxy S23 Ultra. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S23 Ultra. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

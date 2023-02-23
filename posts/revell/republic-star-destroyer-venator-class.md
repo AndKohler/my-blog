@@ -20,4 +20,4 @@ I also have an acrylic stand (middle pic 4) that I have it sitting on that I had
 
 This model version is the first release from 2005 by Revell and is very rare to find. Luckely I found it on Ebay for $160 so it's not a cheap model.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

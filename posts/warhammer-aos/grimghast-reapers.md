@@ -23,4 +23,4 @@ There was 4 of this model in the box set but one of them was broken beyond repai
 
 Base size: 32mm
 
-Pictures taken with Samsung Galaxy S20 one by one to get best focus. Then put into photoshop to make background white. Models **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20 one by one to get best focus. Then put into photoshop to make background white. Models **NOT EDITED** in photoshop, only background.

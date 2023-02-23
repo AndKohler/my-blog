@@ -19,4 +19,4 @@ Some small goblins that I picked up along the way.
 
 Base Size: 25mm
 
-Pictures taken with Samsung Galaxy S20 one by one to get best focus. Then put into photoshop to make background white. Models **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20 one by one to get best focus. Then put into photoshop to make background white. Models **NOT EDITED** in photoshop, only background.

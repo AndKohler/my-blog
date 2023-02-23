@@ -20,4 +20,4 @@ This vehicle does not appear in any movie or tv-show. It's upgraded version TX-1
 
 Base Size: 148mm
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

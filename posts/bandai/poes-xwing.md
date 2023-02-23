@@ -19,4 +19,4 @@ This vehicle can be seen in Star Wars Episode 7-8. The same vehicle also appears
 
 The scale of this model is 1/72 and is about 17cm long and 14.5cm wide.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

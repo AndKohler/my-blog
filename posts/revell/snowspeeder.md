@@ -19,4 +19,4 @@ This vehicle can be seen in Star Wars Episode 5.
 
 This model is in scale 1/52 and is about 10cm long and 9cm wide.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

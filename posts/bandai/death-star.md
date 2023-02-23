@@ -20,4 +20,4 @@ It's little smaller then a tennis ball and the smallest model I have compared to
 
 After the first Death Star got blown up in Episode 4, the Empire started to construct a bigger version of it and it can be seen in space over the planet Endor being built by the Galactic Empire.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

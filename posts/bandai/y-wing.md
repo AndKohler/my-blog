@@ -19,4 +19,4 @@ This vehicle was made for the Galactic Republic during the Clone Wars and would 
 
 This model is 1/144 scale and is about 11cm long and 6cm wide.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

@@ -21,4 +21,4 @@ This model is 1/72 scale and is about 10cm long and 9.5cm wide.
 
 This model has also a full cockpit that I've painted with a pilot but It's to small to see or take pictures of.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

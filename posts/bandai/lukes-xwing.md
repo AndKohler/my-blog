@@ -21,4 +21,4 @@ I've painted this to have a very worn and dirty look.
 
 There are some different options when building this model. You can choose to have the landing gear up, cockpit closed and wings in expand mode. As I already have another X-Wing I decided to make this one in ground mode. There is also 2 different droids to use aswell and I've chosen R2D2 to make this look like Luke's X-Wing Red 5.
 
-Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20. Then put into photoshop to make background white. Model **NOT EDITED** in photoshop, only background.

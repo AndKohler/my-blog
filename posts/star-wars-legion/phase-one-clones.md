@@ -27,4 +27,4 @@ The phase-1 clone troopers can be seen in Star Wars Episode 2 and tv-shows.
 
 Base Size: 37mm
 
-Pictures taken with Samsung Galaxy S20 one by one to get the best focus. Then put into photoshop to make background white. Models **NOT EDITID** in photoshop, only background.
+Pictures taken with Samsung Galaxy S20 one by one to get the best focus. Then put into photoshop to make background white. Models **NOT EDITED** in photoshop, only background.
