@@ -16,7 +16,7 @@ Create a new folder where you want to place the code in.
 Ether via terminal or inside Visual Studio Code terminal run:
 
 ```bash
-git clone <url>
+git clone https://github.com/AndKohler/my-blog.git
 ```
 
 Navigate inside the new map called "my-blog"
