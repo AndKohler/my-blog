@@ -8,12 +8,11 @@ const Workstation = () => {
                 <ul>
                     <li className="bg-white border-2 border-gray-700 rounded-xl mt-14 mb-5 pb-10 px-5">
                         <p className="text-xl my-5">
-                            It's nothing special really. It's an Ikea table and a paint rack that I made myself. <br/>
-                            The best part about this setup is I get direct access to all my colors right infront of me. <br/>
+                            Ikea table and a paint rack that I made myself. <br/>
                             I have a total of 223 bottles in this rack. <br/>
                             But that's not even close to all my colors. I have probably about 50-100 more in my drawers 
                             under the table. <br/>
-                            Most of my bottles are from Citadel, Warhammer's own brand. <br />
+                            Most of my bottles are from Citadel, Warhammer's own brand. Other then that I use Vallejo Model Air <br />
                             My light is called Neatfi XL 2,200 Lumens LED. <br /> 
                             It has 4 dimmable stages with a color temp between 5600K-6500K and gives a good daylight. <br/>
                             A good light is a must investment with a hobby like this. Got it on Amazon for about $130. 
@@ -28,24 +27,7 @@ const Workstation = () => {
                     </li>
                     <li className="bg-white border-2 border-gray-700 rounded-xl mt-14 mb-5 pb-10 px-5">
                         <p className="text-xl my-5">
-                            This was my old setup. <br />
-                            Same table, less colors and a really shitty lamp. <br />
-                            As you can see in my current setup the light from the lamp is very important. You dont want 
-                            that yellow light. <br />
-                            Trust me, get one with the right color temp.
-                        </p>
-                        <Image
-                            className="flex justify-center" 
-                            src="/images/workstation/2.webp" 
-                            height={500} width={2500}
-                            priority={true}
-                            alt="">
-                        </Image>
-                    </li>
-                    <li className="bg-white border-2 border-gray-700 rounded-xl mt-14 mb-5 pb-10 px-5">
-                        <p className="text-xl my-5">
-                            I figured I might aswell take a photo of my current computer setup. <br />
-                            And yes that is a real Katana.
+                            This is my computer setup that I have right next to my painting setup. <br />
                         </p>
                         <Image
                             className="flex justify-center" 
