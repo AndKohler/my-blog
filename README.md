@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project using [TailwindCSS](https://tai
 
 
 
-## Visit my fully deployed website here: [Andkohler-Hobby.com](https://andkohler-hobby.com/)
+## Visit my fully deployed website here: [Andkohler Hobby Blog](https://my-blog-andkohler.vercel.app/)
 
 
 
